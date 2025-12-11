@@ -12,7 +12,7 @@ A simple web-based library management system to manage books and members, with f
 - Dark mode toggle
 
 ## Demo / Test Login
-Access the live version here: [Live Demo](https://harizitexpert.github.io/library-book-management/)  
+Access the live version here: [Live Demo](https://harizitexpert.github.io/admin-library-book-management/)  
 
 Use the following credentials to log in:
 - **Username:** `admin`
